@@ -1,0 +1,5 @@
+C:\Users\dell\source\repos\calculator-user-control-main\TestCalculator\obj\Debug\TestCalculator.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\calculator-user-control-main\TestCalculator\obj\Debug\TestCalculator.Form1.resources
+C:\Users\dell\source\repos\calculator-user-control-main\TestCalculator\obj\Debug\TestCalculator.Properties.Resources.resources
+C:\Users\dell\source\repos\calculator-user-control-main\TestCalculator\obj\Debug\TestCalculator.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\calculator-user-control-main\TestCalculator\obj\Debug\TestCalculator.csproj.CoreCompileInputs.cache

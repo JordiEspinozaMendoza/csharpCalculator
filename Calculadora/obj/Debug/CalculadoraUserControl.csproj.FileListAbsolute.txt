@@ -1,0 +1,11 @@
+C:\Users\dell\source\repos\calculator-user-control-main\Calculadora\bin\Debug\Calculadora.dll
+C:\Users\dell\source\repos\calculator-user-control-main\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\dell\source\repos\calculator-user-control-main\Calculadora\bin\Debug\Calculator.dll
+C:\Users\dell\source\repos\calculator-user-control-main\Calculadora\bin\Debug\Calculator.pdb
+C:\Users\dell\source\repos\calculator-user-control-main\Calculadora\obj\Debug\CalculadoraUserControl.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\calculator-user-control-main\Calculadora\obj\Debug\Calculadora.UserControl1.resources
+C:\Users\dell\source\repos\calculator-user-control-main\Calculadora\obj\Debug\CalculadoraUserControl.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\calculator-user-control-main\Calculadora\obj\Debug\CalculadoraUserControl.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\calculator-user-control-main\Calculadora\obj\Debug\CalculadoraUserControl.csproj.CopyComplete
+C:\Users\dell\source\repos\calculator-user-control-main\Calculadora\obj\Debug\Calculadora.dll
+C:\Users\dell\source\repos\calculator-user-control-main\Calculadora\obj\Debug\Calculadora.pdb

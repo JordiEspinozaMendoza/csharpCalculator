@@ -1,0 +1,16 @@
+C:\Users\dell\source\repos\calculator-user-control-main\CalculatorForms\bin\Debug\CalculatorForms.exe.config
+C:\Users\dell\source\repos\calculator-user-control-main\CalculatorForms\bin\Debug\CalculatorForms.exe
+C:\Users\dell\source\repos\calculator-user-control-main\CalculatorForms\bin\Debug\CalculatorForms.pdb
+C:\Users\dell\source\repos\calculator-user-control-main\CalculatorForms\bin\Debug\Calculadora.dll
+C:\Users\dell\source\repos\calculator-user-control-main\CalculatorForms\bin\Debug\Calculator.dll
+C:\Users\dell\source\repos\calculator-user-control-main\CalculatorForms\bin\Debug\Calculadora.pdb
+C:\Users\dell\source\repos\calculator-user-control-main\CalculatorForms\bin\Debug\Calculator.pdb
+C:\Users\dell\source\repos\calculator-user-control-main\CalculatorForms\obj\Debug\CalculatorForms.Form1.resources
+C:\Users\dell\source\repos\calculator-user-control-main\CalculatorForms\obj\Debug\CalculatorForms.Properties.Resources.resources
+C:\Users\dell\source\repos\calculator-user-control-main\CalculatorForms\obj\Debug\CalculatorForms.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\calculator-user-control-main\CalculatorForms\obj\Debug\CalculatorForms.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\calculator-user-control-main\CalculatorForms\obj\Debug\CalculatorForms.csproj.CopyComplete
+C:\Users\dell\source\repos\calculator-user-control-main\CalculatorForms\obj\Debug\CalculatorForms.exe
+C:\Users\dell\source\repos\calculator-user-control-main\CalculatorForms\obj\Debug\CalculatorForms.pdb
+C:\Users\dell\source\repos\calculator-user-control-main\CalculatorForms\bin\Debug\MaterialSkin.dll
+C:\Users\dell\source\repos\calculator-user-control-main\CalculatorForms\obj\Debug\CalculatorForms.csprojAssemblyReference.cache
